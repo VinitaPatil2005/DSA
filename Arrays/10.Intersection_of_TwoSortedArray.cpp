@@ -23,8 +23,7 @@
 //          Move j                                                        //
 //      6. else                                                           //
 //          Move j                                                        //
-//              TC: O(n + m)       SC: O(n + m) (for result)              //
-//                   n = size of arr1, m = size of arr2                   //
+//              TC: O(n + m)       SC: O(k) (intersection size)           //
 //------------------------------------------------------------------------//
 
 #include <iostream>
